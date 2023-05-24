@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/swapnil1988" target="blank"><img src="https://img.shields.io/twitter/follow/swapnil1988?logo=twitter&style=for-the-badge" alt="swapnil1988" /></a> </p>
 
-- 🔭 I’m currently working on **Online Quiz System**
 
-- 🌱 I’m currently learning **React, Node, Express**
 
 - 👨‍💻 All of my projects are available at [https://swapnil9250.github.io/portfolio-website/](https://swapnil9250.github.io/portfolio-website/)
 
