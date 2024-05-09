@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/swapnil1988" target="blank"><img src="https://img.shields.io/twitter/follow/swapnil1988?logo=twitter&style=for-the-badge" alt="swapnil1988" /></a> </p>
 
 
-   ➤ Passionate and dedicated Front-End Developer with 1.5+ years of experience creating user-friendly and visually appealing websites and web applications.
+   ➤ Passionate and dedicated Front-End Developer with 2+ years of experience creating user-friendly and visually appealing websites and web applications.
  
    ➤ Currently Working on technologies like React, Redux, NextJS, Typescript.
 
